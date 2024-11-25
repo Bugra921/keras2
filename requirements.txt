@@ -1,0 +1,8 @@
+numpy
+Python-IO
+pillow
+keras==2.12.0
+opencv-python-headless
+streamlit
+tensorflow==2.12.0
+uvicorn
